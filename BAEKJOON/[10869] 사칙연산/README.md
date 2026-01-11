@@ -1,4 +1,4 @@
-# 플랫폼명 [문제번호] 문제명
+# BOJ [10869] 사칙연산
 <sup>[문제 바로가기](https://www.acmicpc.net/problem/10869)</sup>
 
 ## 문제 분석
