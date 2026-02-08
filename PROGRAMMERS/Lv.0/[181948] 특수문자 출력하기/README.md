@@ -1,4 +1,4 @@
-# PGM [Lv.0] 특수문자 출력하기
+# PGM [181948] 특수문자 출력하기
 <sup>[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/181948)</sup>
 
 ## 문제 분석

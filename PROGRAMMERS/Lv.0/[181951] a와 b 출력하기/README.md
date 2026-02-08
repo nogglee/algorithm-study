@@ -1,4 +1,4 @@
-# PGM [Lv.0] a와 b 출력하기
+# PGM [181951] a와 b 출력하기
 <sup>[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/181951)</sup>
 
 ## 문제 분석

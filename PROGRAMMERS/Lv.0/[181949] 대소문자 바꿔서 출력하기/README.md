@@ -1,4 +1,4 @@
-# PGM [Lv.0] 대소문자 바꿔서 출력하기
+# PGM [181949] 대소문자 바꿔서 출력하기
 <sup>[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)</sup>
 
 ## 문제 분석
